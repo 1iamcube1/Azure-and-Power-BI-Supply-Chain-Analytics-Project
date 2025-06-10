@@ -2,6 +2,7 @@
 
 ## Overview
 This project implements a modern supply chain analytics solution using Azure cloud services and Power BI, focusing on inventory optimization and demand management using the AdventureWorks dataset.
+Link powerbi: https://app.powerbi.com/view?r=eyJrIjoiNTc4OTc1NTktYzEzNS00YjA3LWJkMmMtNGY4YTEwNjNmMmIwIiwidCI6Ijk4MmEyZGRkLTliZTEtNGQ2ZS05Y2M5LTM3ZGVhYjEwM2MwNyIsImMiOjEwfQ%3D%3D
 
 ## Business Case
 The project addresses critical business needs in:
